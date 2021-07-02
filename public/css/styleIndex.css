@@ -1,0 +1,45 @@
+body{
+    background-color: #141618;
+};
+
+
+.navbar-cor{
+    background-color: #141618!important;
+}
+
+.register-title{
+    color:#d8d8d8;
+    font-family: roboto;
+    font-weight: bold;
+}
+
+.text-labels{
+    color:black;
+}
+
+#img-center{
+    border-radius: 50%;
+
+}
+
+.jumbotron{
+
+    background-image: linear-gradient(#3a0ca3, #4cc9f0);
+}
+
+#search-container form{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    
+
+}
+
+#central-text{
+
+    font-family: roboto;
+    font-weight: bold;
+    font-size: 140px;
+    color:rgb(165, 165, 165);
+
+}
